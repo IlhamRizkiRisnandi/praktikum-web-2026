@@ -22,3 +22,6 @@
 * **Processor:** AMD Ryzen 7 7435HS
 * **RAM:** 16,0 GB
 * **System type:** 64-bit operating system, x64-based processor
+
+* **Nodejs:** v24.21.0
+* **Git:** 2.56.0
